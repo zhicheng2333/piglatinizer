@@ -2,7 +2,7 @@
 
 | # classes|Example|Planning|Assesment|
 |:--:|:--:|:--:|:--:|
-| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1W1ZubA5UIIdpQ08Bff4FJ0g1wtFD3mIXNRbxBNqoy3A)|[Rubric](https://drive.google.com/open?id=1OcgOVmsKKEHgFG6v5Z0eJaVY23k6qdUKJoy5Y3WXS4w)|
+| 3 |[Portfolio](https://scriptedcurriculum.github.io/advanced_porfolio_solution/)|[Planning Document](https://drive.google.com/open?id=1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc)|[Rubric](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|
 
 ## Overview: 
 In this project you will create a pig latin translator. This will require you to create and input box and a button with click handler. The program will read text and dislpay the pig latinized result to the screen.
