@@ -2,7 +2,7 @@
 // word, moves it to the end of the word and suffixes an ay, or if a word
 // begins with a vowel you just add way to the end. For example, pig becomes
 // igpay, banana becomes ananabay, and aadvark becomes aadvarkway.
-
+// CREATE THE FUNCTIONS BELOW
 
 // Create a Document Ready Function. 
 	// Create a click handler that takes in the value from the input box. 
