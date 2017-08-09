@@ -11,7 +11,7 @@ In this project you will create a pig latin translator. This will require you to
 1.1 plan and wireframe a project <br>
 1.2 create HTML skeleton from a wireframe <br>
 2.1 write a function that takes a parameter and returns a value <br>
-2.2 manipulatin items in a string <br>
+2.2 manipulating items in a string <br>
 3.1 split a string into an array and iterate over the new array <br>
 3.2 push items to an array and join the array into a string <br>
 
