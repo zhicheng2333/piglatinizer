@@ -27,7 +27,7 @@ In this project you will create a pig latin translator. This will require you to
 ## Projects Extensions:
 * Create another input box that transforms pig latin into english
 * Create you own secret encoder that encrypts messages 
-* Try out the passcode
+* Try out the [passcode](https://jsbin.com/tawogirebo/edit?html,js,output)
 
 ## References/Tools
 * [Advanced Reference Table]()
