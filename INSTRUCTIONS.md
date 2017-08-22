@@ -5,7 +5,7 @@
 | 3 |[Pig Latinizer](https://scriptedcurriculum.github.io/advanced_piglatinizer_solution/)|[Planning Document](https://drive.google.com/open?id=1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc)|[Rubric](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|
 
 ## Overview: 
-In this project you will create a pig latin translator. This will require you to create and input box and a button with click handler. The program will read text and dislpay the pig latinized result to the screen.
+In this unit coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. In order to create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods separate and transform words, for loops to iterate over multiple items in an array, array methods to add items and join items into a sentence.
 
 ## Objectives:
 1.1 plan and wireframe a project <br>
