@@ -31,3 +31,5 @@ In this unit coders will create a Pig Latinizer. The Pig Latinizer will take a u
 
 ## References/Tools
 * [Advanced Reference Table]()
+* [W3 String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+* [W3 Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
