@@ -1,8 +1,8 @@
 # Pig Latinizer Project
 
-| # classes|Example|Planning|Assesment|
+| # classes|Example Project|Project Planning|Rubric|
 |:--:|:--:|:--:|:--:|
-| 3 |[Pig Latinizer](https://scriptedcurriculum.github.io/advanced_piglatinizer_solution/)|[Planning Document](https://drive.google.com/open?id=1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc)|[Rubric](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|
+| 3 |[03 EP ](https://scriptedcurriculum.github.io/advanced_piglatinizer_solution/)|[03 PP](https://drive.google.com/open?id=1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc)|[03 RB](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|
 
 ## Overview: 
 In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods to separate and transform words, for loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence.
