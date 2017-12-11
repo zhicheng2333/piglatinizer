@@ -38,6 +38,6 @@
 
 
 // Create the toPigLatinSentence function that takes a sentence as a parameter
-	//Itterates through all the words in the sentence and transforms each word to pig latin
+	//Iterates through all the words in the sentence and transforms each word to pig latin
 
 
