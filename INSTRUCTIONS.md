@@ -13,7 +13,6 @@ In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a 
 2.1 write a function that takes a parameter and returns a value <br>
 2.2 manipulating items in a string <br>
 3.1 split a string into an array and iterate over the new array <br>
-3.2 push items to an array and join the array into a string <br>
 
 ## Instructions
 1) Fork this repo to your own github account. 
