@@ -4,11 +4,13 @@
 // igpay, banana becomes ananabay, and aadvark becomes aadvarkay.
 // CREATE THE FUNCTIONS BELOW
 
-// Document Ready Function. 
-	
+// Document Ready Function. All of your jQuery should go in here. 
+$( document ).ready(function() {
+  
 
 
 
+});
 
 
 // Create the wordToPigLatin function that takes a word as a parameter and returns a transfromed word. 
@@ -19,7 +21,7 @@
 
 
 // Create the sentenceToPigLatin function that takes a sentence as a parameter
-	//Iterates through all the words in the sentence and transforms each word to pig latin
+	//Loops through all the words in the sentence and transforms each word
 	//It should return a transfromed sentance
 
 
