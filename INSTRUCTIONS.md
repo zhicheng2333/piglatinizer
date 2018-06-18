@@ -1,27 +1,43 @@
 # Pig Latinizer Project
 
-| # classes|Example Project|Project Planning|Rubric|
-|:--:|:--:|:--:|:--:|
-| 3 |[03 EP ](https://scriptedcurriculum.github.io/advanced_piglatinizer_solution/)|[03 PP](https://drive.google.com/open?id=1gINwUa2YyBhAvlKkdAlfm9gJxnnkbiTPE1QV_O_PmJc)|[03 RB](https://drive.google.com/open?id=13vHr_fpuyip958JHw2eYt8P7UQsGz9-crCHPZKyNVf4)|
-
 ## Overview: 
-In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods to separate and transform words, for loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence.
+In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods to separate and transform words, for loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence. Follow the steps below to make your very own site! Make sure to check off your items as you complete them. [ ] => [x]
 
-## Objectives:
-1.1 plan and wireframe a project <br>
-1.2 create HTML skeleton from a wireframe <br>
-2.1 write a function that takes a parameter and returns a value <br>
-2.2 manipulating items in a string <br>
-3.1 split a string into an array and iterate over the new array <br>
+## Day 1
+### Planning
+- [ ] Review your Starter Code and make sure you understand what code has already been written for you.
+### Set-Up
+- [x] Go to the repository at https://github.com/ScriptEdcurriculum/quiz
+- [ ] Fork this repository to your github account and clone it to a new workspace
+- [ ] Add, commit, and push your changes
+- [ ] Make your site live on gh-pages
+### index.html
+- [ ] 
+### JS
+- [ ]
+### Wrap
+- [ ] Push your changes!
 
-## Instructions
-1) Fork this repo to your own github account. 
-2) Clone this repo into your own Cloud9 account workspace.
-3) Create your README.md file.
-4) Follow the instuctions in the comments to create your project
-5) Push all changes to GitHub.
-6) Host project on gh-pages.
-7) Add links to working url and project source code to your portfolio with an image and short description of the project.
+## Day 2
+### JS
+- [ ] 
+- [ ] 
+### Wrap
+- [ ] Push your changes!
+
+
+## Day 3
+### JS
+- [ ] 
+### Wrap
+- [ ] Push your changes!
+
+## Extensions
+- [ ] Update the HTML and CSS to reflect your own style.
+- [ ] Change the theme of the quiz.
+- [ ] Add more questions to your quiz.
+- [ ] Update the function that displays the result so it displays an image in addition to the user-specific placement details.
+
 
 ## Projects Extensions:
 * Create another input box that transforms pig latin into english
