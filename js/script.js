@@ -11,7 +11,7 @@ $( document ).ready(function() {
 });
 
 
-// Create the takes a word as a parameter and returns a transfromed word. 
+// Takes a word as a parameter and returns a transfromed word. 
 function wordToPigLatin(word) {
 	var vowels = [ 'a', 'e', 'i', 'o', 'u' ];
 
