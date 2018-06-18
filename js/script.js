@@ -30,3 +30,15 @@ function wordToPigLatin(word) {
 	//It should return a transfromed sentance
 
 
+
+
+
+
+
+
+
+// Create the clearOutput function that clears the output div
+
+
+
+
