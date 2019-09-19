@@ -13,15 +13,7 @@ $( document ).ready(function() {
 
 // Takes a word as a parameter and returns a transfromed word. 
 function wordToPigLatin(word) {
-	var vowels = [ 'a', 'e', 'i', 'o', 'u' ];
-
-	var firstLetter = word[0];
-
-	if (vowels.indexOf(firstLetter) > -1) {
-		return word + 'ay';
-	} else {
-		return word.slice(1) + firstLetter + 'ay';
-	}
+	
 }
 
 
