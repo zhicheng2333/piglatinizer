@@ -1,42 +1,30 @@
 # Pig Latinizer Project
 
 ## Overview: 
-In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data, functions to separate concerns, string methods to separate and transform words, for loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence. Follow the steps below to make your very own site! Make sure to check off your items as you complete them. [ ] => [x]
+In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data,  string methods to separate and transform words,  loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence. Follow the steps below to make your very own site! Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 1
 ### Planning
 - [ ] Review your Starter Code and make sure you understand what code has already been written for you.
 ### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/piglatinizer
-- [ ] Fork this repository to your github account and clone it to a new workspace
+- [ ] Fork this repository to your github account and pull it into Gitpod
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 ### index.html
-- [ ] 
+- [ ] Make small updates.
 ### JS
-- [ ]
+- [ ] Create a click handler to take user input and display it on the page
+- [ ] Using array methods, write the code that displays a word transformed into Pig latin and displays it on the page
 ### Wrap
 - [ ] Push your changes!
 
 ## Day 2
 ### JS
-- [ ] 
-- [ ] 
+- [ ] Using array methods and loops, write the code to transform an entire sentence into pig latin.
+- [ ] Using string methods and your knowledge of conditionals, write the code that will Pig Latinize your sentence correctly for both vowels and consonants.
 ### Wrap
 - [ ] Push your changes!
-
-
-## Day 3
-### JS
-- [ ] 
-### Wrap
-- [ ] Push your changes!
-
-## Extensions
-- [ ] Update the HTML and CSS to reflect your own style.
-- [ ] Change the theme of the quiz.
-- [ ] Add more questions to your quiz.
-- [ ] Update the function that displays the result so it displays an image in addition to the user-specific placement details.
 
 
 ## Projects Extensions:
