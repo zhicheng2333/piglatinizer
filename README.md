@@ -2,7 +2,7 @@
 
 ## Overview: 
 In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data,  string methods to separate and transform words,  loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence. Follow the steps below to make your very own site! Make sure to check off your items as you complete them. [ ] => [x]
-
+Pig Latin takes the first consonant (or consonant cluster) of an English word, moves it to the end of the word and suffixes an ay, or if a word begins with a vowel you just add ay to the end. For example, pig becomes igpay, banana becomes ananabay, and aadvark becomes aadvarkay.
 ## Day 1
 ### Planning
 - [ ] Review your Starter Code and make sure you understand what code has already been written for you.
