@@ -1,4 +1,5 @@
 # Pig Latinizer Project
+## Browser preview command: python3 -m http.server 3000
 
 ## Overview: 
 In this unit, coders will create a Pig Latinizer. The Pig Latinizer will take a user's sentence and display the sentence in pig latin on the screen. To create this project, coders will use jQuery to take user input and display data,  string methods to separate and transform words,  loops to iterate over multiple items in an array, and array methods to add items and join items into a sentence. Follow the steps below to make your very own site! Make sure to check off your items as you complete them. [ ] => [x]
