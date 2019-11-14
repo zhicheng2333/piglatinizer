@@ -6,22 +6,28 @@ $("document" ).ready(function() { //this helps your jQuery to work. Write all of
 
     $("#button").click(function() {
         var input = $(".input").val();
-        var first_letter = input.charAt(0);
-        first_letter = first_letter.toUpperCase();
-        var translated;
-        if (consonant.includes(first_letter)) {
-            console.log("First letter is a consonant", first_letter);
-            var length_of_word = input.length;
-            var trimmed = input.slice(1, length_of_word)
-            translated = trimmed + first_letter + piglatin;
-            // "talk" -> "alktay" (originalWord - firstLetter) + firstLetter + "ay" 
-        } else if (vowel.includes(first_letter)) {
-            var length_of_word = input.length;
-            translated = input + piglatin;
-            // "Alex" -> "Alexay" originalWord + "ay"
-        } else {
-            print(' I dont know what is this',first_letter)
-        }
-        $(".output").append("<p>" + translated + "</p>");
+        var words =input.split(" ");
+        var finalResult = "";
+        words.forEach(function(word){
+            var first_letter = word.charAt(0);
+            first_letter = first_letter.toUpperCase();
+            var translated;
+            if (consonant.includes(first_letter)) {
+                console.log("First letter is a consonant", first_letter);
+                var length_of_word = word.length;
+                var trimmed = word.slice(1, length_of_word)
+                translated = trimmed + first_letter + piglatin;
+                // "talk" -> "alktay" (originalWord - firstLetter) + firstLetter + "ay" 
+            } else if (vowel.includes(first_letter)) {
+                var length_of_word = word.length;
+                translated = word + piglatin;
+                // "Alex" -> "Alexay" originalWord + "ay"
+            } else {
+                print(' I dont know what is this',first_letter)
+            }
+            finalResult = finalResult + " " + translated;
+        });
+        $(".output").text(finalResult );
     }); // end click handler
+
 });
