@@ -8,19 +8,20 @@ $("document" ).ready(function() { //this helps your jQuery to work. Write all of
         var input = $(".input").val();
         var first_letter = input.charAt(0);
         first_letter = first_letter.toUpperCase();
+        var translated;
         if (consonant.includes(first_letter)) {
             console.log("First letter is a consonant", first_letter);
             var length_of_word = input.length;
             var trimmed = input.slice(1, length_of_word)
-            var translated = trimmed + first_letter + piglatin
-            // append the translated string to your output HTML
-        } else if (first_letter in vowel) {
-            print(first_letter,'is a vowel')
-            pig_latin=word+ways
-            print('The word in Pig Latin is:',pig_latin)
+            translated = trimmed + first_letter + piglatin;
+            // "talk" -> "alktay" (originalWord - firstLetter) + firstLetter + "ay" 
+        } else if (vowel.includes(first_letter)) {
+            var length_of_word = input.length;
+            translated = input + piglatin;
+            // "Alex" -> "Alexay" originalWord + "ay"
         } else {
             print(' I dont know what is this',first_letter)
         }
-        $(".output").text('<p>' + inputworld + '</p>');
+        $(".output").append("<p>" + translated + "</p>");
     }); // end click handler
 });
